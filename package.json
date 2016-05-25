@@ -1,0 +1,24 @@
+{
+  "name": "sugarsprojcet",
+  "version": "0.0.1",
+  "description": "web project for the need of me",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "save-dev": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BakaSugars/SugarsProject.git"
+  },
+  "author": "BakaSugars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BakaSugars/SugarsProject/issues"
+  },
+  "homepage": "https://github.com/BakaSugars/SugarsProject#readme"
+}
